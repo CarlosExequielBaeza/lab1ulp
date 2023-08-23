@@ -1,5 +1,6 @@
 //Profe soy el colaborador no tenemos compatibles los netbeans por eso comento aca , yo este tp igual lo hice...
 //El Administrador si esta haciendo todo atravez de github desktop y Netbeans...
+//Modificacion por Carlos Baeza
 package tp2lab;
 
 /**
