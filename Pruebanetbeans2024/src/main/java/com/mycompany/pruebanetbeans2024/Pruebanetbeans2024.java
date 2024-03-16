@@ -4,6 +4,8 @@
 
 package com.mycompany.pruebanetbeans2024;
 
+import java.util.Scanner;
+
 /**
  *
  * @author litob
@@ -11,6 +13,14 @@ package com.mycompany.pruebanetbeans2024;
 public class Pruebanetbeans2024 {
 
     public static void main(String[] args) {
+        int numero;
         System.out.println("Hello World!");
+        System.out.println("Ingrese dato para leer");
+        Scanner leer  = new Scanner (System.in);
+        numero=leer.nextInt();
+        System.out.println("el numero es "+numero);
     }
+    
+    
+    
 }
